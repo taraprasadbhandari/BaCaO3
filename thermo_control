@@ -1,4 +1,5 @@
  &INPUT_THERMO
-  what='scf_dos',
-  emax_input=40.,
+  what='scf_bands',
+  emax_input=25,
+  nbnd_bands=28,
  /
