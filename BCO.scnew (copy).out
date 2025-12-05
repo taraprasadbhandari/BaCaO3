@@ -1,5 +1,5 @@
 
-     Program THERMO_PW v.7.3 starts on  5May2025 at 18:46:17 
+     Program THERMO_PW v.7.3 starts on  5May2025 at 18:45:16 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -14,7 +14,7 @@
 
      MPI processes distributed on     1 nodes
      R & G space division:  proc/nbgrp/npool/nimage =      20
-     27142 MiB available memory on the printing compute node when the environment starts
+     27126 MiB available memory on the printing compute node when the environment starts
 
      Reading input from _temporary_1
      file Ba.pbesol-spn-kjpaw_psl.1.0.0.UPF: wavefunction(s)  5S 6S renormalized
@@ -1576,10 +1576,10 @@ M         1
      Times for ph.x 
  laxlib_end: laxlib was not initialized 
 
-     THERMO_PW    :      0.32s CPU      3.53s WALL
+     THERMO_PW    :      0.29s CPU      0.33s WALL
 
 
-   This run was terminated on:  18:46:21   5May2025            
+   This run was terminated on:  18:45:17   5May2025            
 
 =------------------------------------------------------------------------------=
    JOB DONE.
